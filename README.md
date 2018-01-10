@@ -1,3 +1,5 @@
+ANY CSV FILES CAN BE USED!!
+
 Disk Based Query System
 - uncomment helperAGAIN.py from line 683-752, comment helperAGAIN.py from line 755-829
 - uncomment get_query_result.py line 16, comment get_query_result.py line 18
